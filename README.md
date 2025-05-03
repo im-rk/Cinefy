@@ -1,3 +1,4 @@
 # Deployment Link
 
-https://cinefydev.netlify.app/
+If content is not loading or the app seems unresponsive, please try accessing it via a VPN.
+https://cinefydev.netlify.app/      
